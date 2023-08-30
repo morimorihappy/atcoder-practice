@@ -1,3 +1,111 @@
 # Personal Practice Repository for AtCoder
 
 I am using this repository for AtCoder.
+
+I also record the solved problems below:
+
+|Contest|A|B|C|D|
+|:--:|:--:|:--:|:--:|:--:|
+|ABC300|Diff 5 / xx (xx min)|Diff 350 / xx (xx min)|Diff 534 / xx (xx min)|Diff 908 / xx (xx min)|
+|ABC299|Diff ?? / xx (xx min)|Diff ?? / xx (xx min)|Diff 271 / xx (xx min)|Diff 763 / xx (xx min)|
+|ABC298|Diff ?? / xx (xx min)|Diff ?? / xx (xx min)|Diff 548 / xx (xx min)|Diff 943 / xx (xx min)|
+|ABC297|Diff 11 / xx (xx min)|Diff 39 / xx (xx min)|Diff 84 / xx (xx min)|Diff 264 / xx (xx min)|
+|ABC296|Diff 10 / xx (xx min)|Diff 24 / xx (xx min)|Diff 149 / xx (xx min)|Diff 999 / xx (xx min)|
+|ABC295|Diff 10 / xx (xx min)|Diff 143 / xx (xx min)|Diff 109 / xx (xx min)|Diff 939 / xx (xx min)|
+|ABC294|Diff 5 / xx (xx min)|Diff 19 / xx (xx min)|Diff 114 / xx (xx min)|Diff 385 / xx (xx min)|
+|ABC293|Diff 8 / xx (xx min)|Diff 55 / xx (xx min)|Diff 431 / xx (xx min)|Diff 830 / xx (xx min)|
+|ABC292|Diff 5 / xx (xx min)|Diff 31 / xx (xx min)|Diff 444 / xx (xx min)|Diff 579 / xx (xx min)|
+|ABC291|Diff 5 / xx (xx min)|Diff 25 / xx (xx min)|Diff 175 / xx (xx min)|Diff 720 / xx (xx min)|
+|ABC290|Diff 6 / xx (xx min)|Diff 16 / xx (xx min)|Diff 214 / xx (xx min)|Diff 1036 / xx (xx min)|
+|ABC289|Diff 10 / xx (xx min)|Diff 213 / xx (xx min)|Diff 396 / xx (xx min)|Diff 551 / xx (xx min)|
+|ABC288|Diff 3 / xx (xx min)|Diff 36 / xx (xx min)|Diff 436 / xx (xx min)|Diff 1757 / xx (xx min)|
+|ABC287|Diff 8 / xx (xx min)|Diff 37 / xx (xx min)|Diff 466 / xx (xx min)|Diff 796 / xx (xx min)|
+|ABC286|Diff 23 / xx (xx min)|Diff 25 / xx (xx min)|Diff 565 / xx (xx min)|Diff 607 / xx (xx min)|
+|ABC285|Diff 8 / xx (xx min)|Diff 96 / xx (xx min)|Diff 144 / xx (xx min)|Diff 663 / xx (xx min)|
+|ABC284|Diff 7 / xx (xx min)|Diff 10 / xx (xx min)|Diff 181 / xx (xx min)|Diff 658 / xx (xx min)|
+|ABC283|Diff 5 / xx (xx min)|Diff 27 / xx (xx min)|Diff 76 / xx (xx min)|Diff 453 / xx (xx min)|
+|ABC282|Diff 4 / xx (xx min)|Diff 62 / xx (xx min)|Diff 92 / xx (xx min)|Diff 1154 / xx (xx min)|
+|ABC281|Diff 3 / xx (xx min)|Diff 56 / xx (xx min)|Diff 119 / xx (xx min)|Diff 1031 / xx (xx min)|
+|ABC280|Diff 8 / xx (xx min)|Diff 16 / xx (xx min)|Diff 54 / xx (xx min)|Diff 880 / xx (xx min)|
+|ABC279|Diff 4 / xx (xx min)|Diff 31 / xx (xx min)|Diff 263 / xx (xx min)|Diff 766 / xx (xx min)|
+|ABC278|Diff 12 / xx (xx min)|Diff 110 / xx (xx min)|Diff 322 / xx (xx min)|Diff 559 / xx (xx min)|
+|ABC277|Diff 7 / xx (xx min)|Diff 50 / xx (xx min)|Diff 540 / xx (xx min)|Diff 873 / xx (xx min)|
+|ABC276|Diff 9 / xx (xx min)|Diff 130 / xx (xx min)|Diff 389 / xx (xx min)|Diff 645 / xx (xx min)|
+|ABC275|Diff 10 / xx (xx min)|Diff 134 / xx (xx min)|Diff 760 / xx (xx min)|Diff 606 / xx (xx min)|
+|ABC274|Diff 18 / xx (xx min)|Diff 39 / xx (xx min)|Diff 308 / xx (xx min)|Diff 916 / xx (xx min)|
+|ABC273|Diff 7 / xx (xx min)|Diff 166 / xx (xx min)|Diff 368 / xx (xx min)|Diff 1119 / xx (xx min)|
+|ABC272|Diff 5 / xx (xx min)|Diff 126 / xx (xx min)|Diff 154 / xx (xx min)|Diff 804 / xx (xx min)|
+|ABC271|Diff 22 / xx (xx min)|Diff 85 / xx (xx min)|Diff 842 / xx (xx min)|Diff 886 / xx (xx min)|
+|ABC270|Diff 37 / xx (xx min)|Diff 94 / xx (xx min)|Diff 625 / xx (xx min)|Diff 1300 / xx (xx min)|
+|ABC269|Diff 5 / xx (xx min)|Diff 58 / xx (xx min)|Diff 383 / xx (xx min)|Diff 612 / xx (xx min)|
+|ABC268|Diff 12 / xx (xx min)|Diff 20 / xx (xx min)|Diff 676 / xx (xx min)|Diff 1309 / xx (xx min)|
+|ABC267|Diff 9 / xx (xx min)|Diff 159 / xx (xx min)|Diff 524 / xx (xx min)|Diff 864 / xx (xx min)|
+|ABC266|Diff 6 / xx (xx min)|Diff 83 / xx (xx min)|Diff 516 / xx (xx min)|Diff 840 / xx (xx min)|
+|ABC265|Diff 13 / xx (xx min)|Diff 139 / xx (xx min)|Diff 200 / xx (xx min)|Diff 727 / xx (xx min)|
+|ABC264|Diff 5 / xx (xx min)|Diff 46 / xx (xx min)|Diff 758 / xx (xx min)|Diff 414 / xx (xx min)|
+|ABC263|Diff 21 / xx (xx min)|Diff 123 / xx (xx min)|Diff 290 / xx (xx min)|Diff 1016 / xx (xx min)|
+|ABC262|Diff 5 / xx (xx min)|Diff 208 / xx (xx min)|Diff 359 / xx (xx min)|Diff 1213 / xx (xx min)|
+|ABC261|Diff 42 / xx (xx min)|Diff 63 / xx (xx min)|Diff 167 / xx (xx min)|Diff 801 / xx (xx min)|
+|ABC260|Diff 9 / xx (xx min)|Diff 183 / xx (xx min)|Diff 413 / xx (xx min)|Diff 1074 / xx (xx min)|
+|ABC259|Diff 27 / xx (xx min)|Diff 168 / xx (xx min)|Diff 451 / xx (xx min)|Diff 947 / xx (xx min)|
+|ABC258|Diff 7 / xx (xx min)|Diff 511 / xx (xx min)|Diff 419 / xx (xx min)|Diff 687 / xx (xx min)|
+|ABC257|Diff 17 / xx (xx min)|Diff 79 / xx (xx min)|Diff 678 / xx (xx min)|Diff 1203 / xx (xx min)|
+|ABC256|Diff 5 / xx (xx min)|Diff 72 / xx (xx min)|Diff 541 / xx (xx min)|Diff 546 / xx (xx min)|
+|ABC255|Diff 9 / xx (xx min)|Diff 348 / xx (xx min)|Diff 574 / xx (xx min)|Diff 788 / xx (xx min)|
+|ABC254|Diff 5 / xx (xx min)|Diff 36 / xx (xx min)|Diff 536 / xx (xx min)|Diff 1191 / xx (xx min)|
+|ABC253|Diff 13 / xx (xx min)|Diff 48 / xx (xx min)|Diff 518 / xx (xx min)|Diff 520 / xx (xx min)|
+|ABC252|Diff 4 / xx (xx min)|Diff 34 / xx (xx min)|Diff 441 / xx (xx min)|Diff 884 / xx (xx min)|
+|ABC251|Diff 6 / xx (xx min)|Diff 169 / xx (xx min)|Diff 235 / xx (xx min)|Diff 1463 / xx (xx min)|
+|ABC250|Diff 19 / xx (xx min)|Diff 97 / xx (xx min)|Diff 517 / xx (xx min)|Diff 797 / xx (xx min)|
+|ABC249|Diff 91 / xx (xx min)|Diff 38 / xx (xx min)|Diff 528 / xx (xx min)|Diff 983 / xx (xx min)|
+|ABC248|Diff 16 / xx (xx min)|Diff 33 / xx (xx min)|Diff 787 / xx (xx min)|Diff 793 / xx (xx min)|
+|ABC247|Diff 10 / xx (xx min)|Diff 190 / xx (xx min)|Diff 136 / xx (xx min)|Diff 468 / xx (xx min)|
+|ABC246|Diff 21 / xx (xx min)|Diff 68 / xx (xx min)|Diff 331 / xx (xx min)|Diff 1148 / xx (xx min)|
+|ABC245|Diff 19 / xx (xx min)|Diff 32 / xx (xx min)|Diff 403 / xx (xx min)|Diff 815 / xx (xx min)|
+|ABC244|Diff 4 / xx (xx min)|Diff 23 / xx (xx min)|Diff 152 / xx (xx min)|Diff 153 / xx (xx min)|
+|ABC243|Diff 13 / xx (xx min)|Diff 20 / xx (xx min)|Diff 409 / xx (xx min)|Diff 758 / xx (xx min)|
+|ABC242|Diff 29 / xx (xx min)|Diff 36 / xx (xx min)|Diff 512 / xx (xx min)|Diff 1286 / xx (xx min)|
+|ABC241|Diff 10 / xx (xx min)|Diff 34 / xx (xx min)|Diff 664 / xx (xx min)|Diff 1177 / xx (xx min)|
+|ABC240|Diff 4 / xx (xx min)|Diff 14 / xx (xx min)|Diff 464 / xx (xx min)|Diff 570 / xx (xx min)|
+|ABC239|Diff 15 / xx (xx min)|Diff 48 / xx (xx min)|Diff 186 / xx (xx min)|Diff 242 / xx (xx min)|
+|ABC238|Diff 20 / xx (xx min)|Diff 171 / xx (xx min)|Diff 637 / xx (xx min)|Diff 921 / xx (xx min)|
+|ABC237|Diff 19 / xx (xx min)|Diff 39 / xx (xx min)|Diff 258 / xx (xx min)|Diff 544 / xx (xx min)|
+|ABC236|Diff 5 / xx (xx min)|Diff 22 / xx (xx min)|Diff 69 / xx (xx min)|Diff 1190 / xx (xx min)|
+|ABC235|Diff 6 / xx (xx min)|Diff 15 / xx (xx min)|Diff 239 / xx (xx min)|Diff 862 / xx (xx min)|
+|ABC234|Diff 5 / xx (xx min)|Diff 38 / xx (xx min)|Diff 143 / xx (xx min)|Diff 503 / xx (xx min)|
+|ABC233|Diff 6 / xx (xx min)|Diff 17 / xx (xx min)|Diff 604 / xx (xx min)|Diff 726 / xx (xx min)|
+|ABC232|Diff 6 / xx (xx min)|Diff 71 / xx (xx min)|Diff 685 / xx (xx min)|Diff 539 / xx (xx min)|
+|ABC231|Diff 2 / xx (xx min)|Diff 31 / xx (xx min)|Diff 182 / xx (xx min)|Diff 726 / xx (xx min)|
+|ABC230|Diff 3 / xx (xx min)|Diff 30 / xx (xx min)|Diff 566 / xx (xx min)|Diff 963 / xx (xx min)|
+|ABC229|Diff 18 / xx (xx min)|Diff 34 / xx (xx min)|Diff 152 / xx (xx min)|Diff 745 / xx (xx min)|
+|ABC228|Diff 45 / xx (xx min)|Diff 72 / xx (xx min)|Diff 202 / xx (xx min)|Diff 1035 / xx (xx min)|
+|ABC227|Diff 16 / xx (xx min)|Diff 23 / xx (xx min)|Diff 692 / xx (xx min)|Diff 1643 / xx (xx min)|
+|ABC226|Diff 10 / xx (xx min)|Diff 180 / xx (xx min)|Diff 539 / xx (xx min)|Diff 706 / xx (xx min)|
+|ABC225|Diff 8 / xx (xx min)|Diff 52 / xx (xx min)|Diff 320 / xx (xx min)|Diff 778 / xx (xx min)|
+|ABC224|Diff 4 / xx (xx min)|Diff 70 / xx (xx min)|Diff 294 / xx (xx min)|Diff 1376 / xx (xx min)|
+|ABC223|Diff 4 / xx (xx min)|Diff 75 / xx (xx min)|Diff 350 / xx (xx min)|Diff 1069 / xx (xx min)|
+|ABC222|Diff 3 / xx (xx min)|Diff 6 / xx (xx min)|Diff 365 / xx (xx min)|Diff 865 / xx (xx min)|
+|ABC221|Diff 7 / xx (xx min)|Diff 49 / xx (xx min)|Diff 377 / xx (xx min)|Diff 832 / xx (xx min)|
+|ABC220|Diff 10 / xx (xx min)|Diff 49 / xx (xx min)|Diff 106 / xx (xx min)|Diff 664 / xx (xx min)|
+|ABC219|Diff 4 / xx (xx min)|Diff 13 / xx (xx min)|Diff 250 / xx (xx min)|Diff 1085 / xx (xx min)|
+|ABC218|Diff 4 / xx (xx min)|Diff 10 / xx (xx min)|Diff 1012 / xx (xx min)|Diff 715 / xx (xx min)|
+|ABC217|Diff 16 / xx (xx min)|Diff 16 / xx (xx min)|Diff 40 / xx (xx min)|Diff 802 / xx (xx min)|
+|ABC216|Diff 12 / xx (xx min)|Diff 31 / xx (xx min)|Diff 132 / xx (xx min)|Diff 1039 / xx (xx min)|
+|ABC215|Diff 4 / xx (xx min)|Diff 58 / xx (xx min)|Diff 165 / xx (xx min)|Diff 736 / xx (xx min)|
+|ABC214|Diff 2 / xx (xx min)|Diff 44 / xx (xx min)|Diff 313 / xx (xx min)|Diff 1341 / xx (xx min)|
+|ABC213|Diff 26 / xx (xx min)|Diff 20 / xx (xx min)|Diff 481 / xx (xx min)|Diff 710 / xx (xx min)|
+|ABC212|Diff 3 / xx (xx min)|Diff 54 / xx (xx min)|Diff 235 / xx (xx min)|Diff 775 / xx (xx min)|
+|ABC211|Diff 4 / xx (xx min)|Diff 12 / xx (xx min)|Diff 559 / xx (xx min)|Diff 755 / xx (xx min)|
+|ABC210|Diff 14 / xx (xx min)|Diff 17 / xx (xx min)|Diff 356 / xx (xx min)|Diff 1507 / xx (xx min)|
+|ABC209|Diff 3 / xx (xx min)|Diff 9 / xx (xx min)|Diff 276 / xx (xx min)|Diff 686 / xx (xx min)|
+|ABC208|Diff 22 / xx (xx min)|Diff 42 / xx (xx min)|Diff 130 / xx (xx min)|Diff 1190 / xx (xx min)|
+|ABC207|Diff 3 / xx (xx min)|Diff 86 / xx (xx min)|Diff 397 / xx (xx min)|Diff 2074 / xx (xx min)|
+|ABC206|Diff 3 / xx (xx min)|Diff 10 / xx (xx min)|Diff 158 / xx (xx min)|Diff 879 / xx (xx min)|
+|ABC205|Diff 3 / xx (xx min)|Diff 11 / xx (xx min)|Diff 53 / xx (xx min)|Diff 713 / xx (xx min)|
+|ABC204|Diff 4 / xx (xx min)|Diff 6 / xx (xx min)|Diff 629 / xx (xx min)|Diff 832 / xx (xx min)|
+|ABC203|Diff 4 / xx (xx min)|Diff 8 / xx (xx min)|Diff 156 / xx (xx min)|Diff 1622 / xx (xx min)|
+|ABC202|Diff 2 / xx (xx min)|Diff 12 / xx (xx min)|Diff 192 / xx (xx min)|Diff 966 / xx (xx min)|
+|ABC201|Diff 8 / xx (xx min)|Diff 25 / xx (xx min)|Diff 439 / xx (xx min)|Diff 1317 / xx (xx min)|
+|ABC200|Diff 3 / AC (1 min)|Diff 15 / xx (xx min)|Diff 196 / xx (xx min)|Diff 1217 / xx (xx min)|
+
+Note that the difficulties were taken on 30-th August, 2023.
